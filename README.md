@@ -51,7 +51,7 @@ The system detects a specific color (red cloth) using image processing and repla
 ⚙️ Installation
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/invisibility-cloak-opencv.git
+git clone https://github.com/AsmaShaikh911-23/invisibility-cloak-opencv.git
 cd invisibility-cloak-opencv
 
 
